@@ -1,1 +1,1 @@
-Practice knowledge learned from HTML studies bybuilding a basic recipe website.
+Practice knowledge learned from HTML studies by building a basic recipe website.
